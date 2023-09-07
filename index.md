@@ -4,3 +4,6 @@
 ``` c
 printf("Hello! world");
 ```
+- [x] Turn on Github Pges
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
